@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@rebass/forms": "^4.0.6",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rebass": "^4.0.7",
+    "reflexbox": "^4.0.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "name": "inewi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
